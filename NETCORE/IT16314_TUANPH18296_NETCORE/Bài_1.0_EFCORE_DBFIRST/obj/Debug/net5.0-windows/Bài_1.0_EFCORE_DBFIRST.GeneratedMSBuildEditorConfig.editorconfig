@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0-windows
+build_property.TargetPlatformMinVersion = 7.0
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = Bài_1._0_EFCORE_DBFIRST
+build_property.ProjectDir = E:\C#_3\NETCORE\IT16314_TUANPH18296_NETCORE\Bài_1.0_EFCORE_DBFIRST\

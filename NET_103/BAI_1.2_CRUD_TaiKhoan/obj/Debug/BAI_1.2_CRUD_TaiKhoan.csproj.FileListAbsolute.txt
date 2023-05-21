@@ -1,0 +1,13 @@
+E:\C#_3\NET_103\BAI_1.2_CRUD_TaiKhoan\bin\Debug\BAI_1.2_CRUD_TaiKhoan.exe.config
+E:\C#_3\NET_103\BAI_1.2_CRUD_TaiKhoan\bin\Debug\BAI_1.2_CRUD_TaiKhoan.exe
+E:\C#_3\NET_103\BAI_1.2_CRUD_TaiKhoan\bin\Debug\BAI_1.2_CRUD_TaiKhoan.pdb
+E:\C#_3\NET_103\BAI_1.2_CRUD_TaiKhoan\obj\Debug\BAI_1.2_CRUD_TaiKhoan.csprojAssemblyReference.cache
+E:\C#_3\NET_103\BAI_1.2_CRUD_TaiKhoan\obj\Debug\BAI_1._2_CRUD_TaiKhoan.Properties.Resources.resources
+E:\C#_3\NET_103\BAI_1.2_CRUD_TaiKhoan\obj\Debug\BAI_1._2_CRUD_TaiKhoan.Views.frmMain.resources
+E:\C#_3\NET_103\BAI_1.2_CRUD_TaiKhoan\obj\Debug\BAI_1.2_CRUD_TaiKhoan.csproj.GenerateResource.cache
+E:\C#_3\NET_103\BAI_1.2_CRUD_TaiKhoan\obj\Debug\BAI_1.2_CRUD_TaiKhoan.csproj.CoreCompileInputs.cache
+E:\C#_3\NET_103\BAI_1.2_CRUD_TaiKhoan\obj\Debug\BAI_1.2_CRUD_TaiKhoan.exe
+E:\C#_3\NET_103\BAI_1.2_CRUD_TaiKhoan\obj\Debug\BAI_1.2_CRUD_TaiKhoan.pdb
+E:\C#_3\NET_103\BAI_1.2_CRUD_TaiKhoan\obj\Debug\BAI_1._2_CRUD_TaiKhoan.Views.frmLogin.resources
+E:\C#_3\NET_103\BAI_1.2_CRUD_TaiKhoan\obj\Debug\BAI_1._2_CRUD_TaiKhoan.Views.frmRegister.resources
+E:\C#_3\NET_103\BAI_1.2_CRUD_TaiKhoan\obj\Debug\BAI_1._2_CRUD_TaiKhoan.Views.frmForgotPassword.resources

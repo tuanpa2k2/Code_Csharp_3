@@ -1,0 +1,15 @@
+E:\C#_3\BAI_1.0_TaoWindowFormBangCode\BAI_1.1_TongQuanWinForm\obj\Debug\BAI_1.1_TongQuanWinForm.csprojAssemblyReference.cache
+E:\C#_3\BAI_1.0_TaoWindowFormBangCode\BAI_1.1_TongQuanWinForm\obj\Debug\BAI_1._1_TongQuanWinForm.Form1.resources
+E:\C#_3\BAI_1.0_TaoWindowFormBangCode\BAI_1.1_TongQuanWinForm\obj\Debug\BAI_1._1_TongQuanWinForm.Properties.Resources.resources
+E:\C#_3\BAI_1.0_TaoWindowFormBangCode\BAI_1.1_TongQuanWinForm\obj\Debug\BAI_1.1_TongQuanWinForm.csproj.GenerateResource.cache
+E:\C#_3\BAI_1.0_TaoWindowFormBangCode\BAI_1.1_TongQuanWinForm\obj\Debug\BAI_1.1_TongQuanWinForm.csproj.CoreCompileInputs.cache
+E:\C#_3\NET_103\BAI_1.1_TongQuanWinForm\bin\Debug\BAI_1.1_TongQuanWinForm.exe.config
+E:\C#_3\NET_103\BAI_1.1_TongQuanWinForm\bin\Debug\BAI_1.1_TongQuanWinForm.exe
+E:\C#_3\NET_103\BAI_1.1_TongQuanWinForm\bin\Debug\BAI_1.1_TongQuanWinForm.pdb
+E:\C#_3\NET_103\BAI_1.1_TongQuanWinForm\obj\Debug\BAI_1.1_TongQuanWinForm.csprojAssemblyReference.cache
+E:\C#_3\NET_103\BAI_1.1_TongQuanWinForm\obj\Debug\BAI_1._1_TongQuanWinForm.Form1.resources
+E:\C#_3\NET_103\BAI_1.1_TongQuanWinForm\obj\Debug\BAI_1._1_TongQuanWinForm.Properties.Resources.resources
+E:\C#_3\NET_103\BAI_1.1_TongQuanWinForm\obj\Debug\BAI_1.1_TongQuanWinForm.csproj.GenerateResource.cache
+E:\C#_3\NET_103\BAI_1.1_TongQuanWinForm\obj\Debug\BAI_1.1_TongQuanWinForm.csproj.CoreCompileInputs.cache
+E:\C#_3\NET_103\BAI_1.1_TongQuanWinForm\obj\Debug\BAI_1.1_TongQuanWinForm.exe
+E:\C#_3\NET_103\BAI_1.1_TongQuanWinForm\obj\Debug\BAI_1.1_TongQuanWinForm.pdb

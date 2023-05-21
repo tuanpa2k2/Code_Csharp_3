@@ -1,0 +1,12 @@
+E:\C#_3\NET_103\Bai_1.3_ADO\bin\Debug\Bai_1.3_ADO.exe.config
+E:\C#_3\NET_103\Bai_1.3_ADO\bin\Debug\Bai_1.3_ADO.exe
+E:\C#_3\NET_103\Bai_1.3_ADO\bin\Debug\Bai_1.3_ADO.pdb
+E:\C#_3\NET_103\Bai_1.3_ADO\obj\Debug\Bai_1._3_ADO.Form1.resources
+E:\C#_3\NET_103\Bai_1.3_ADO\obj\Debug\Bai_1._3_ADO.Properties.Resources.resources
+E:\C#_3\NET_103\Bai_1.3_ADO\obj\Debug\Bai_1.3_ADO.csproj.GenerateResource.cache
+E:\C#_3\NET_103\Bai_1.3_ADO\obj\Debug\Bai_1.3_ADO.csproj.CoreCompileInputs.cache
+E:\C#_3\NET_103\Bai_1.3_ADO\obj\Debug\Bai_1.3_ADO.exe
+E:\C#_3\NET_103\Bai_1.3_ADO\obj\Debug\Bai_1.3_ADO.pdb
+E:\C#_3\NET_103\Bai_1.3_ADO\obj\Debug\Bai_1._3_ADO._2_MainAccount_ADO.resources
+E:\C#_3\NET_103\Bai_1.3_ADO\obj\Debug\Bai_1.3_ADO.csproj.AssemblyReference.cache
+E:\C#_3\NET_103\Bai_1.3_ADO\obj\Debug\Bai_1._3_ADO.QLTV_QuanLiSach.resources

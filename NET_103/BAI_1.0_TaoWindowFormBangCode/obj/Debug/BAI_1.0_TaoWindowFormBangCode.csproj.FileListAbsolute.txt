@@ -1,0 +1,9 @@
+E:\C#_3\NET_103\BAI_1.0_TaoWindowFormBangCode\bin\Debug\BAI_1.0_TaoWindowFormBangCode.exe.config
+E:\C#_3\NET_103\BAI_1.0_TaoWindowFormBangCode\bin\Debug\BAI_1.0_TaoWindowFormBangCode.exe
+E:\C#_3\NET_103\BAI_1.0_TaoWindowFormBangCode\bin\Debug\BAI_1.0_TaoWindowFormBangCode.pdb
+E:\C#_3\NET_103\BAI_1.0_TaoWindowFormBangCode\obj\Debug\BAI_1.0_TaoWindowFormBangCode.csprojAssemblyReference.cache
+E:\C#_3\NET_103\BAI_1.0_TaoWindowFormBangCode\obj\Debug\BAI_1._0_TaoWindowFormBangCode.Properties.Resources.resources
+E:\C#_3\NET_103\BAI_1.0_TaoWindowFormBangCode\obj\Debug\BAI_1.0_TaoWindowFormBangCode.csproj.GenerateResource.cache
+E:\C#_3\NET_103\BAI_1.0_TaoWindowFormBangCode\obj\Debug\BAI_1.0_TaoWindowFormBangCode.csproj.CoreCompileInputs.cache
+E:\C#_3\NET_103\BAI_1.0_TaoWindowFormBangCode\obj\Debug\BAI_1.0_TaoWindowFormBangCode.exe
+E:\C#_3\NET_103\BAI_1.0_TaoWindowFormBangCode\obj\Debug\BAI_1.0_TaoWindowFormBangCode.pdb
